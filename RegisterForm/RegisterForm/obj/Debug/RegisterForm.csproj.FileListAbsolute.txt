@@ -1,0 +1,11 @@
+I:\4 th Year\1 SEM\P.F.ASE\Lab 07\RegisterForm\RegisterForm\bin\Debug\RegisterForm.exe.config
+I:\4 th Year\1 SEM\P.F.ASE\Lab 07\RegisterForm\RegisterForm\bin\Debug\RegisterForm.exe
+I:\4 th Year\1 SEM\P.F.ASE\Lab 07\RegisterForm\RegisterForm\bin\Debug\RegisterForm.pdb
+I:\4 th Year\1 SEM\P.F.ASE\Lab 07\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csproj.AssemblyReference.cache
+I:\4 th Year\1 SEM\P.F.ASE\Lab 07\RegisterForm\RegisterForm\obj\Debug\RegisterForm.Form1.resources
+I:\4 th Year\1 SEM\P.F.ASE\Lab 07\RegisterForm\RegisterForm\obj\Debug\RegisterForm.Form2.resources
+I:\4 th Year\1 SEM\P.F.ASE\Lab 07\RegisterForm\RegisterForm\obj\Debug\RegisterForm.Properties.Resources.resources
+I:\4 th Year\1 SEM\P.F.ASE\Lab 07\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csproj.GenerateResource.cache
+I:\4 th Year\1 SEM\P.F.ASE\Lab 07\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csproj.CoreCompileInputs.cache
+I:\4 th Year\1 SEM\P.F.ASE\Lab 07\RegisterForm\RegisterForm\obj\Debug\RegisterForm.exe
+I:\4 th Year\1 SEM\P.F.ASE\Lab 07\RegisterForm\RegisterForm\obj\Debug\RegisterForm.pdb
